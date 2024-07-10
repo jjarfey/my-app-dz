@@ -1,0 +1,12 @@
+.time {
+    font-size: 20px;
+  font-weight: 600;
+  
+  
+  /* color: transparent; */
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 80%;
+    padding: 10px;
+    
+}
